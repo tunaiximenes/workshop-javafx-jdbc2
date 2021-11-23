@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.workshopjavafxjdbc2/com.example.workshopjavafxjdbc2.HelloApplication
+                                com.example.workshopjavafxjdbc2/com.example.workshopjavafxjdbc2.Main
                             </mainClass>
                         </configuration>
                     </execution>
